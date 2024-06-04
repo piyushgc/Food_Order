@@ -1,0 +1,66 @@
+ 
+        h1 {
+          text-align: center;
+      }
+
+      #cart-items {
+          list-style-type: none;
+          padding: 0;
+      }
+
+      #cart-items li {
+          padding: 10px;
+          margin-bottom: 5px;
+          border-radius: 5px;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          background-color: #f9f9f9;
+      }
+
+      #cart-total {
+          font-weight: bold;
+      }
+
+      form {
+          margin-top: 120px;
+          margin-left: 460px;
+      }
+
+      label {
+          display: block;
+          margin-bottom: 5px;
+      }
+
+      input[type="text"],
+      textarea {
+          width: 100%;
+          padding: 5px;
+          margin-bottom: 10px;
+          border-radius: 5px;
+          border: 1px solid #ccc;
+          
+      }
+
+      input[type="submit"] {
+          padding: 5px 10px;
+          background-color: #333;
+          color: #fff;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+          background-color: #555;
+      }
+
+      input[type="number"] {
+          width: 50px;
+          padding: 5px;
+          border-radius: 5px;
+          border: 1px solid #ccc;
+          margin-left: 817px;
+      }
+      .p1{
+          margin-left:985px;
+          
+      }
